@@ -1,0 +1,73 @@
+﻿table {
+    border: 2px solid rgb(8, 116, 24);
+    border-collapse: collapse;
+    width: 15%;
+    
+  }
+  
+  th, td {
+    padding: 7px;
+    text-align: center;
+    border: 1px solid #1b1818;
+  }
+  
+  th {
+    background-color: #52a36da4;
+    font-weight: bolder;
+  }
+  
+.table-text-container {
+    display: flex;
+
+  }
+  
+  .table-container {
+    width: 15%;
+    float: left;
+    margin-right: 20px;
+  }
+  
+  .text-container {
+    width: 85%;
+    float: right;
+    margin-left: 20px;
+  }
+  
+
+  td {
+    background-color: white;
+  }
+  
+  td.feriado {
+    background-color: green;
+    font-weight: bold;
+  }
+
+  td.amarelo {
+    background-color: rgb(189, 189, 51);
+  }
+  
+  td.amarelo2 {
+    background-color: rgb(233, 192, 57);
+  }
+
+  td.rosa {
+    background-color: rgb(223, 157, 141);
+  }
+
+  td.verde {
+    background-color: rgb(88, 139, 88);
+  }
+
+  td.bold {
+    font-weight: bold;
+  }
+  
+  .bolder {
+    font-weight: bolder;
+  }
+  
+  p {
+    margin: 0%;
+  }
+  
