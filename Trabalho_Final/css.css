@@ -1,0 +1,83 @@
+.borda {
+  background-color: #FFDF2B;
+  width: 100%;
+  height: 80px;
+
+}
+
+.r{
+  font-family: 'Chewy', cursive;
+  font-size: 30px;
+}
+.d{
+  font-family: 'League Spartan', sans-serif;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.logo{
+  color: #34266B;
+  z-index: 1;
+  top: 10px;
+  left: 18px;
+  text-align: center;
+  position: absolute;
+  font-family: 'Chewy', cursive;
+  font-size: 30px;
+
+} 
+
+body,
+html,
+p {
+  margin: 0;
+  overflow: hidden;
+}
+
+.t{ 
+  font-family: 'Heebo', sans-serif;
+  font-size: 30px;
+
+}
+
+.a{ 
+  font-family: 'Lilita One', cursive;
+  font-size: 25px;
+}
+
+.image-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.frases {
+  height: 20%;
+}
+
+.container img {
+  max-height: 400px;
+}
+
+.content {
+  margin-top: 32px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.body {
+  height: 10%;
+}
+
+.botao{
+  padding: 10px 20px;
+background-color: #FFDF2B;
+border-radius: 20px;
+border: none;
+text-decoration: none;
+color: #333;
+font-family: 'Lato', sans-serif;
+font-weight: bold;
+font-size: 10px;
+color: #827219;
+}
